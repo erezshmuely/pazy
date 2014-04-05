@@ -1,0 +1,8 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: pazy
+  pool: 5
+  username: pazy
+  password: g4ssGbel
+
